@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp"
+    },
+    "runInTerminal.clearBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.fontSize": 16,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.errorSquiggles": "Disabled"
+}
